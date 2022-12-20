@@ -1,0 +1,25 @@
+filename:sftp.json
+
+filename:ftpconfig
+
+filename:gulpfile.js password
+
+filename:recentservers.xml
+
+filename:*.sh password spawn ssh
+
+filename:connect.php -127 -localhost
+
+filename:connection.php -127 -localhost
+
+filename:.env password -sample -example
+
+filename:conexion.php -127 -localhost
+
+filename:connexion.php -127 -localhost
+
+filename:*.sh password
+
+filename:.bash_history password
+
+.gov. password (for government targets- replace the tld with the country code you want)
